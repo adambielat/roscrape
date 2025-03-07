@@ -6,6 +6,6 @@
 
 ***Scrape and add owners of a limited with ease. Make the simple tasks easier.***
 
-   ʜɪᴛ ɪ ɢᴏᴛ ᴏɴ ᴛʜᴇ ꜰɪʀꜱᴛ ᴅᴀʏ:
+   ʜɪᴛ ɪ ɢᴏᴛ ᴏɴ ᴛʜᴇ ꜰɪʀꜱᴛ ᴅᴀʏ [FAKE UGC DEV METHOD] :
    <br>
    ![](https://i.imgur.com/moPkUcN.png)
