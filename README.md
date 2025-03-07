@@ -1,5 +1,7 @@
 ### ʀᴏꜱᴄʀᴀᴘᴇ ⟐ ###
 
+Edit the .py file to add your information on first startup.
+
 * Selenium-based.
 * Quick scraping.
 * 0% Ban rate.
