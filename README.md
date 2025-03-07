@@ -8,7 +8,8 @@ Edit the .py file to add your information on first startup.
 
 ***Scrape and add owners of a limited with ease. Make the simple tasks easier.***
 
-[ ]  
+[WIP] - Undetected Chromedriver
+[WIP] - Quicker time complexities
    
    ʜɪᴛ ɪ ɢᴏᴛ ᴏɴ ᴛʜᴇ ꜰɪʀꜱᴛ ᴅᴀʏ [​🇫​​🇦​​🇰​​🇪​ ​🇺​​🇬​​🇨​ ​🇩​​🇪​​🇻​ ​🇲​​🇪​​🇹​​🇭​​🇴​​🇩​] :
    <br>
