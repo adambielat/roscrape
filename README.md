@@ -1,6 +1,8 @@
 ### ʀᴏꜱᴄʀᴀᴘᴇ ⟐ ###
 
-Edit the .py file to add your information on first startup.
+***Simply input a item's UID and it will scrape all of the usernames using Rolimons.<br>
+Once done, select the friend request option and it will add all of them.<br>
+Usernames are stored in a CSV file in the file directory.***
 
 [​🇽​] - *Selenium-based.*<br>
 [​🇽​] - *Quick scraping.*<br>
