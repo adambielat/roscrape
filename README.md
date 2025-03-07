@@ -1,5 +1,5 @@
-# RoSCRAPE
+# ʀᴏꜱᴄʀᴀᴘᴇ
 
- - Selenium based.
- - Quick scraping.
- - No bans.
+ - ꜱᴇʟᴇɴɪᴜᴍ ʙᴀꜱᴇᴅ.
+ - Qᴜɪᴄᴋ ꜱᴄʀᴀᴘɪɴɢ.
+ - ɴᴏ ʙᴀɴꜱ.
