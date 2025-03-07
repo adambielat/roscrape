@@ -7,4 +7,4 @@
    Scrape and add owners of a limited with ease.
 
    Hits using this tool posted below:
-   !(https://i.imgur.com/moPkUcN.png)
+   ![](https://i.imgur.com/moPkUcN.png)
